@@ -11,6 +11,23 @@
 
 @import url('https://refact0r.github.io/midnight-discord/midnight.css');
 
+/* top corner title */
+.wordmarkWindows-2dq6rw svg {
+	display: none;
+}
+.wordmarkWindows-2dq6rw::after {
+	content: 'Jaryl';
+	display: block;
+	position: relative;
+	width: 200px;
+	height: 16px;
+	line-height: 16px;
+	font-family: var(--font-headline);
+	font-size: 11px;
+	font-weight: 600;
+	color: var(--text-5);
+}
+
 /* change colors and variables here */
 :root {
 	/* amount of spacing and padding */
