@@ -30,7 +30,7 @@
 
 /* window controls */
 .withFrame-2dL45i {
-	height: 20px;
+	height: 24px;
 }
 .typeWindows-2-g3UY .winButton-3UMjdg > svg {
 	display: none;
@@ -50,6 +50,7 @@
 }
 .typeWindows-2-g3UY .winButtonClose-3Q8ZH5::after {
 	background-color: hsl(350, 50%, 50%) !important;
+	margin-top: 1px;
 }
 .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(3)::after {
 	background-color: hsl(150, 50%, 50%) !important;
