@@ -38,7 +38,7 @@
 	/* color of links */
 	--accent-1: hsl(190, 97%, 41%);
 	/* color of unread dividers and some indicators */
-	--accent-2: hsl(280, 40%, 70%);
+	--accent-2: hsl(325, 59%, 61%);
 	/* color of accented buttons */
 	--accent-3: hsl(280, 40%, 50%);
 	/* color of accented buttons when hovered */
@@ -47,9 +47,9 @@
 	--accent-5: hsl(280, 70%, 20%);
 
 	/* color of mentions and messages that mention you */
-	--mention: hsla(206, 13%, 31%, 0.1);
+	--mention: hsla(280, 57%, 45%, 0.123);
 	/* color of mentions and messages that mention you when hovered */
-	--mention-hover: hsla(252, 8%, 64%, 0.26);
+	--mention-hover: hsla(277, 33%, 72%, 0.1);
 
 	/* color of bright text on colored buttons */
 	--text-1: hsl(220, 40%, 90%);
@@ -58,7 +58,7 @@
 	/* color of normal text */
 	--text-3: hsl(215, 22%, 83%);
 	/* color of icon buttons and channels */
-	--text-4: hsl(0, 0%, 65%);
+	--text-4: hsl(0, 0%, 50%);
 	/* color of muted channels/chats and timestamps */
 	--text-5: hsl(220, 13%, 41%);
 
